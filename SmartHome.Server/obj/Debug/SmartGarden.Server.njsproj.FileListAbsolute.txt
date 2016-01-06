@@ -1,0 +1,1 @@
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartGarden\SmartGarden.Server\bin\Microsoft.NodejsTools.WebRole.dll

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.2">
+  
+  <CommandSet xml:lang="en-us" Name="SmartHomeCommandSet_en-us">
+    <AppName> SmartHome </AppName>
+    <Example> Switch on Garden's fountain </Example>
+    
+    <Command Name="switchDeviceOnOff">
+      <Example> Switch on/off Garden's floor lights </Example>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase"> switch {action} {area} {device}</ListenFor>      
+      <Feedback> Switching {action} {area} {device} </Feedback>
+      <VoiceCommandService Target="SmartHomeVoiceCommandService"/>
+    </Command>
+    
+    <Command Name="whatIsTheDeviceStatus">
+      <Example> What's device status </Example>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase"> what's the status of {area} {device} </ListenFor>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase"> tell me the status of {area} {device} </ListenFor>
+      <Feedback> {area} {device} is switched {action} </Feedback>
+      <VoiceCommandService Target="SmartHomeVoiceCommandService"/>
+    </Command>
+
+    <Command Name="whatIsAreaStatus">
+      <Example> What's the status of living room </Example>      
+      <ListenFor RequireAppName="BeforeOrAfterPhrase"> what's the status of {area} </ListenFor>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase"> tell me the status of {area} </ListenFor>
+      <Feedback> Here is the status of {area} </Feedback>
+      <VoiceCommandService Target="SmartHomeVoiceCommandService"/>
+    </Command>
+
+    <PhraseList Label="destination">
+      <Item>London</Item>
+      <Item>Las Vegas</Item>
+      <Item>Melbourne</Item>
+      <Item>Yosemite National Park</Item>
+    </PhraseList>
+
+    <PhraseList Label="area">
+      <Item>Garden's</Item>
+      <Item>Living Room's</Item>
+      <Item>Bedroom's</Item>
+      <Item>TV Room's</Item>
+    </PhraseList>
+
+    <PhraseList Label="device">
+      <Item>Floor Light</Item>
+      <Item>Terracotta Lamp</Item>
+      <Item>Night Lamp</Item>
+      <Item>Fountain</Item>
+    </PhraseList>
+
+    <PhraseList Label="action">
+      <Item>On</Item>
+      <Item>Off</Item>
+    </PhraseList>
+  </CommandSet>
+
+  <CommandSet xml:lang="en-gb" Name="SmartHomeCommandSet_en-gb">
+    <AppName> SmartHome </AppName>
+    <Example> Switch on Garden's fountain </Example>
+
+    <Command Name="switchDeviceOnOff">
+      <Example> Switch on/off Garden's floor lights </Example>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase"> switch {action} {area} {device}</ListenFor>
+      <Feedback> Switching {action} {area} {device} </Feedback>
+      <VoiceCommandService Target="SmartHomeVoiceCommandService"/>
+    </Command>
+
+    <Command Name="whatIsTheDeviceStatus">
+      <Example> What's device status </Example>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase"> what's the status of {area} {device} </ListenFor>
+      <Feedback> {area} {device} is switched {action} </Feedback>
+      <VoiceCommandService Target="SmartHomeVoiceCommandService"/>
+    </Command>
+
+    <PhraseList Label="destination">
+      <Item>London</Item>
+      <Item>Las Vegas</Item>
+      <Item>Melbourne</Item>
+      <Item>Yosemite National Park</Item>
+    </PhraseList>
+
+    <PhraseList Label="area">
+      <Item>Garden's</Item>
+      <Item>Living Room's</Item>
+      <Item>Bedroom's</Item>
+      <Item>TV Room's</Item>
+    </PhraseList>
+
+    <PhraseList Label="device">
+      <Item>Floor Light</Item>
+      <Item>Terracotta Lamp</Item>
+      <Item>Night Lamp</Item>
+      <Item>Fountain</Item>
+    </PhraseList>
+
+    <PhraseList Label="action">
+      <Item>On</Item>
+      <Item>Off</Item>
+    </PhraseList>
+  </CommandSet>
+
+  <CommandSet xml:lang="en-in" Name="SmartHomeCommandSet_en-in">
+    <AppName> SmartHome </AppName>
+    <Example> Switch on Garden's fountain </Example>
+
+    <Command Name="switchDeviceOnOff">
+      <Example> Switch on/off Garden's floor lights </Example>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase"> switch {action} {area} {device}</ListenFor>
+      <Feedback> Switching {action} {area} {device} </Feedback>
+      <VoiceCommandService Target="SmartHomeVoiceCommandService"/>
+    </Command>
+
+    <Command Name="whatIsTheDeviceStatus">
+      <Example> What's device status </Example>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase"> what's the status of {area} {device} </ListenFor>
+      <Feedback> {area} {device} is switched {action} </Feedback>
+      <VoiceCommandService Target="SmartHomeVoiceCommandService"/>
+    </Command>
+
+    <PhraseList Label="destination">
+      <Item>London</Item>
+      <Item>Las Vegas</Item>
+      <Item>Melbourne</Item>
+      <Item>Yosemite National Park</Item>
+    </PhraseList>
+
+    <PhraseList Label="area">
+      <Item>Garden's</Item>
+      <Item>Living Room's</Item>
+      <Item>Bedroom's</Item>
+      <Item>TV Room's</Item>
+    </PhraseList>
+
+    <PhraseList Label="device">
+      <Item>Floor Light</Item>
+      <Item>Terracotta Lamp</Item>
+      <Item>Night Lamp</Item>
+      <Item>Fountain</Item>
+    </PhraseList>
+
+    <PhraseList Label="action">
+      <Item>On</Item>
+      <Item>Off</Item>
+    </PhraseList>
+  </CommandSet>
+
+</VoiceCommands>

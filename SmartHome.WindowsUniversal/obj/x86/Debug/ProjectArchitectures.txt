@@ -1,0 +1,2 @@
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\SmartHome.WindowsUniversal\SmartHome.WindowsUniversal.csproj;x86
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\VoiceCommandService.csproj;x86

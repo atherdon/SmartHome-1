@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.2">
+  <CommandSet xml:lang="en-in" Name="SmartHomeCommandSet_en-in">
+    <AppName>Smart Home</AppName>
+    <Example>Switch on Garden's floor light</Example>
+
+    <Command Name="switchDeviceOnOff">
+      <Example>Switch on/off Garden's floor light</Example>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase">switch {action} {room} {device}</ListenFor>
+      <Feedback>Switching {action} {room} {device}</Feedback>
+      <VoiceCommandService Target="SmartHomeVoiceCommandService"/>
+    </Command>
+
+    <!--<Command Name="switchOffDevice">
+      <Example>Switch off Garden's floor light</Example>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase">switch off {room} {device}</ListenFor>
+      <Feedback>Switching off {room} {device}</Feedback>
+      <VoiceCommandService Target="SmartHomeVoiceCommandService"/>
+    </Command>-->
+
+    <Command Name="whatIsTheDeviceStatus">
+      <Example>What is the status of Garden's floor light</Example>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase">what is the status of {room} {device}</ListenFor>
+      <Feedback>{room} {device} is switched {action}</Feedback>
+      <VoiceCommandService Target="SmartHomeVoiceCommandService"/>
+    </Command>
+
+    <Command Name="whatIsTheStatus">
+      <Example>What is the status</Example>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase">what is the status</ListenFor>
+      <Feedback>switched on</Feedback>
+      <VoiceCommandService Target="SmartHomeVoiceCommandService"/>
+    </Command>
+
+    <PhraseList Label="room">
+      <Item>Garden's</Item>
+      <Item>Living Room's</Item>
+      <Item>Bed Room's</Item>
+      <Item>Simulator's</Item>
+    </PhraseList>
+    
+    <PhraseList Label="device">
+      <Item>Floor Lights</Item>
+      <Item>Teracotta Lamp</Item>
+      <Item>Fountain</Item>
+      <Item>Night Lamp</Item>
+      <Item>Light</Item>
+    </PhraseList>
+      
+    <PhraseList Label="action">
+      <Item>On</Item>
+      <Item>Off</Item>
+    </PhraseList>
+  </CommandSet>
+</VoiceCommands>

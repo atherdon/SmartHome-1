@@ -1,0 +1,13 @@
+{
+  "name": "SmartHome.Server",
+  "version": "0.0.1",
+  "description": "NodeJS server for SmartHome",
+  "main": "server.js",
+  "author": {
+    "name": "Vishal Bhatt",
+    "email": "vishal.bhatt@live.com"
+  },
+  "dependencies": {    
+    "rpi-gpio": "^0.7.0"
+  }
+}

@@ -1,0 +1,50 @@
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\bin\x86\Debug\Images\GreyTile.scale-100.png
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\bin\x86\Debug\Images\GreyTile.scale-150.png
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\bin\x86\Debug\Images\GreyTile.scale-200.png
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\bin\x86\Debug\Images\GreyTile.scale-225.png
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\bin\x86\Debug\Images\GreyTile.scale-400.png
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\bin\x86\Debug\AdventureWorks.VoiceCommands.winmd
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\bin\x86\Debug\AdventureWorks.VoiceCommands.pdb
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\bin\x86\Debug\AdventureWorks.VoiceCommands.pri
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\bin\x86\Debug\AdventureWorks.Shared.dll
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\bin\x86\Debug\AdventureWorks.Shared.pdb
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\bin\x86\Debug\AdventureWorks.Shared.pri
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\obj\x86\Debug\VoiceCommandService.csprojResolveAssemblyReference.cache
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\obj\x86\Debug\AdventureWorks.VoiceCommands.winmd
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\obj\x86\Debug\AdventureWorks.VoiceCommands.pdb
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\obj\x86\Debug\AdventureWorks.VoiceCommands.winmdobj
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\obj\x86\Debug\AdventureWorks.VoiceCommands.compile.pdb
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\obj\x86\Debug\priconfig.xml
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\obj\x86\Debug\priconfig.xml.intermediate
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\obj\x86\Debug\layout.resfiles
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\obj\x86\Debug\layout.resfiles.intermediate
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\obj\x86\Debug\resources.resfiles
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\obj\x86\Debug\resources.resfiles.intermediate
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\obj\x86\Debug\pri.resfiles
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\obj\x86\Debug\pri.resfiles.intermediate
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\obj\x86\Debug\qualifiers.txt
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Knowledge Base\Samples\Windows Universal - Samples\Samples\CortanaVoiceCommand\cs\VoiceCommandService\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\bin\x86\Debug\Images\GreyTile.scale-100.png
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\bin\x86\Debug\Images\GreyTile.scale-150.png
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\bin\x86\Debug\Images\GreyTile.scale-200.png
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\bin\x86\Debug\Images\GreyTile.scale-225.png
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\bin\x86\Debug\Images\GreyTile.scale-400.png
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\obj\x86\Debug\priconfig.xml
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\obj\x86\Debug\priconfig.xml.intermediate
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\obj\x86\Debug\layout.resfiles
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\obj\x86\Debug\layout.resfiles.intermediate
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\obj\x86\Debug\resources.resfiles
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\obj\x86\Debug\resources.resfiles.intermediate
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\obj\x86\Debug\pri.resfiles
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\obj\x86\Debug\pri.resfiles.intermediate
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\obj\x86\Debug\qualifiers.txt
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\bin\x86\Debug\SmartHome.VoiceCommands.winmd
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\bin\x86\Debug\SmartHome.VoiceCommands.pdb
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\bin\x86\Debug\SmartHome.VoiceCommands.pri
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\obj\x86\Debug\SmartHome.VoiceCommands.winmd
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\obj\x86\Debug\SmartHome.VoiceCommands.pdb
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\obj\x86\Debug\SmartHome.VoiceCommands.winmdobj
+D:\Projects\VisualStudioOnline\MobileAndCloudDevelopment\SmartHome\VoiceCommandService\obj\x86\Debug\SmartHome.VoiceCommands.compile.pdb
